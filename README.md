@@ -71,6 +71,3 @@ mvn clean verify
 
 The test suite covers graph validation, dependency ordering, retry behavior, and failure propagation.
 
-## License
-
-Apache License 2.0. See [LICENSE](LICENSE).
